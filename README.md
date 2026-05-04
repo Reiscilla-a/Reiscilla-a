@@ -3,9 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E83E8C&center=true&width=600&lines=Análise+e+Desenvolvimento+de+Sistemas;UI%2FUX+%7C+Front-end+Developer;Explorando+IA+%26+Data+Science" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reiscillaandrade/">

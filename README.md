@@ -60,19 +60,6 @@
 
 ---
 
-## 📚 Formação Complementar — FIAP Nano Courses
-
-| Área | Curso |
-|------|-------|
-| 📱 Development | Android |
-| 📊 Data Science | Big Data & Analytics |
-| 🔗 Business | Blockchain |
-| 🔗 Business | Blockchain Advanced |
-| 📈 Business | Business Intelligence (BI) |
-| 🤖 Development | Chatbots |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
